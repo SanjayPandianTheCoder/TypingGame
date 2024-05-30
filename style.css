@@ -30,7 +30,7 @@ body{
     width: 20%;
     outline: none;
     border: none;
-    font-size: 1rem;
+    font-size: 20px;
     padding: 10px;
     color: white;
     background-color: #53cc3a;
@@ -40,13 +40,13 @@ body{
 
   @media (max-width: 600px)  {
     .main{
-        font-size: 22px;
+        font-size: 18px;
     }
 
     .typingArea{
-        font-size: 22px;
+        font-size: 18px;
     }
     .btn{
-
+        font-size: 14px;
     }
   }
